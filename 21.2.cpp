@@ -4,8 +4,8 @@ using namespace std;
 // car and person as a class
 class car{
     private:
-    string static a;
-    string seri;
+    string static seri;
+    //string seri;
     double power, speed;
     double turbo;
     double longitude,latitude;
