@@ -9,6 +9,7 @@ class car{
     double power, speed;
     double turbo;
     double longitude,latitude;
+    //aa
 
 public:
  void normal(string  const seri,double const power, double speed);
